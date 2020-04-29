@@ -7,6 +7,9 @@ This is a simple web project
 Something Intro
 ## Purpose
 
+Some Purpose
 ## How to contribute
 
 ## Deployement
+
+Some deployement
