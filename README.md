@@ -10,6 +10,8 @@ Something Intro
 Some Purpose
 ## How to contribute
 
+Please fork this repository and then issue Pull Requests for Review
+
 ## Deployement
 
 Some deployement
