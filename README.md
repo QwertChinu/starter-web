@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple web project. Adding a line for rebasing example.
+This is a simple web project. Adding a line for rebasing example, then more lines from my feature brach too.
 
 ## Introduction
 
