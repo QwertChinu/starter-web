@@ -18,4 +18,4 @@ Some deployement
 
 ## Copyright
 
-2020 chinmaya sahoo
+2020 chinmaya sahoo. All rights reserved
